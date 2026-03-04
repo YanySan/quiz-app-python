@@ -30,8 +30,8 @@ A console-based quiz application with **admin and contestant roles**, scoring, r
 - `main.py`                 — Main script to run the app  
 - `Users.py`                — User class, login, user menus  
 - `QuizQuestions.py`        — Quiz questions loading and game logic  
-- `Users.txt`               — Stores user credentials (**ignored in git**)  
-- `set1.txt`                — Example question set  
+- `Users.txt`               — Stores user credentials (**ignored in git**). Uploaded version here contains example data (**format: username:password:role**)
+- `set1.txt`                — Example question set (**format: numbered questions with a/b/c/d answers, last question reserved for Replace lifeline**)
 - `rank_list.txt`           — Stores scores (**ignored in git**)  
 - `user_sets.txt`           — Tracks which sets users have played (**ignored in git**)  
 - `active_set.txt`          — Currently active question set (**ignored in git**)  
@@ -48,6 +48,7 @@ A console-based quiz application with **admin and contestant roles**, scoring, r
    ```bash
    python main.py
 ---
+
 
 ## Future Improvements
 - GUI
