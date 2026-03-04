@@ -1,1 +1,12 @@
+# User sensitive data
+Users.txt
+user_sets.txt
+rank_list.txt 
+active_set.txt
 
+# PyCharm specific
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
