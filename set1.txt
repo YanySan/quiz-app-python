@@ -1,65 +1,65 @@
-1. Treće slovo grčke azbuke je:
-	a) Alfa
-	b) Delta
-	c) Omega
-	d) Gama
+1. What is the capital city of Japan?
+	a) Tokyo
+	b) Osaka
+	c) Kyoto
+	d) Hiroshima
 
-2. Porodica Rokfeler je svoje bogatstvo stekla:
-	a) proizvodnjom pamuka
-	b) brodogradnjom
-	c) bankarstvom
-	d) u naftnoj industriji
+2. Which river is the longest in the world?
+	a) Nile
+	b) Amazon
+	c) Yangtze
+	d) Mississippi
 
-3. Kom slikarskom pravcu pripada slikar Klod Mone:
-	a) renesansi
-	b) ekspresionizmu
-	c) nadrealizmu
-	d) impresionizmu
+3. Who painted the Mona Lisa?
+	a) Vincent van Gogh
+	b) Leonardo da Vinci
+	c) Pablo Picasso
+	d) Claude Monet
 
-4. Osoba koja ima agorafobiju se plaši:
-	a) životinja
-	b) vode
-	c) bolesti
-	d) otvorenog prostora
+4. Mount Everest is located in which mountain range?
+	a) Alps
+	b) Andes
+	c) Himalayas
+	d) Rockies
 
-5. ISBN je:
-	a) oznaka koja se koristi za međunarodne pošiljke
-	b) jedinstveni matični broj građana
-	c) privremena registarska oznaka za brodove
-	d) međunarodni standardni broj knjige
+5. The Great Wall of China was primarily built for:
+	a) Religious ceremonies
+	b) Defense against invasions
+	c) Agricultural purposes
+	d) Trade and commerce
 
-6. Prvi ustav koji je donet u Srbiji je:
-	a) Namesnički
-	b) Vidovdanski
-	c) Turski
-	d) Sretenjski
+6. Which country hosted the 2016 Summer Olympics?
+	a) China
+	b) Brazil
+	c) Russia
+	d) United Kingdom
 
-7. Rimski broj L je broj:
-	a) 100
-	b) 150
-	c) 1000
-	d) 50
+7. The chemical symbol for gold is:
+	a) Ag
+	b) Au
+	c) Pb
+	d) Fe
 
-8. Reč avlija je:
-	a) germanizam
-	b) anglicizam
-	c) hungarizam
-	d) turcizam
+8. The Sahara Desert is located on which continent?
+	a) Asia
+	b) Africa
+	c) South America
+	d) Australia
 
-9. Olimpijske igre 2008. godine su održane:
-	a) U Sidneju
-	b) U Londonu
-	c) U Nju Delhiju
-	d) U Pekingu
+9. The book "1984" was written by:
+	a) Aldous Huxley
+	b) George Orwell
+	c) Ray Bradbury
+	d) J.R.R. Tolkien
 
-10. Najmanja planeta Sunčevog sistema je:
-	a) Saturn
-	b) Uran
-	c) Neptun
-	d) Merkur
+10. Which planet is known as the Red Planet?
+	a) Venus
+	b) Mars
+	c) Jupiter
+	d) Mercury
 
-11. Balkanski ratovi su trajali:
-	a) 1897 - 1902
-	b) 1911 - 1912
-	c) 1909 - 1911
-	d) 1912 - 1913
+11. The Cold War primarily involved tensions between:
+	a) USA and China
+	b) USA and USSR
+	c) UK and Germany
+	d) France and USSR
