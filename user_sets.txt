@@ -1,8 +1,1 @@
-Mila:set3.txt
-John:set4.txt
-John:set2.txt
-John:set1.txt
-Mila:set1.txt
-Megumi:set4.txt
-Megumi:set2.txt
-Megumi:set3.txt
+
