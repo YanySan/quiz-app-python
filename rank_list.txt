@@ -1,0 +1,4 @@
+Yuji,16,20
+Mila,22,30
+Megumi,30,30
+John,27,30

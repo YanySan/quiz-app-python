@@ -1,0 +1,2 @@
+admin:Admin.1:admin
+Megumi:Megumi.1:contestant
